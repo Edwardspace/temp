@@ -1,0 +1,27 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:verdana;
+}
+.menu{
+    flex-direction:column;
+    margin-top: 12%;
+    background-color: rgb(192, 186, 186);
+    left:50%;
+}
+.category{
+    height:20px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 2rem;
+    font-weight:bolder;
+    border: 1px;
+    border-color: white;
+    font-size:0.85rem;
+    font-family:segoe ui,Calibri,myriad pro,Myriad,trebuchet ms,Helvetica,Arial,sans-serif;
+    color: #4e4e4e;
+    background-color: rgba(128, 128, 128, 0);
+}
